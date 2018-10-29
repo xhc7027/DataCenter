@@ -1,0 +1,24 @@
+.condition .input-group {
+  display: inline-block;
+}
+.condition .input-group .label {
+  margin-left: 20px;
+}
+.condition .input-group .item {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.condition .input-group .item.date-range-pick {
+  width: 220px;
+}
+.condition .btn {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.el-table {
+  margin-top: 10px;
+}
+.el-pagination {
+  margin-top: 20px;
+  text-align: center;
+}
